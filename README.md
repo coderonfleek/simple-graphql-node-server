@@ -6,4 +6,6 @@
 2. Run the server: `npm start`
 3. Playground is available at: http://localhost:4000/playground
 
+![alt text](screen.png "Graphql Playground")
+
 **NB**: The server runs on a mocked Mongodb Database
