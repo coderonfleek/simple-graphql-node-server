@@ -27,6 +27,8 @@ app.use(
 //Graphql Playground route
 app.get("/playground", expressPlayground({ endpoint: "/graphql" }));
 
-app.listen(4000);
+const port = process.env.PORT || "4000";
+
+app.listen(port);
 
 console.log(`🚀 Server ready at http://localhost:4000/graphql`);
