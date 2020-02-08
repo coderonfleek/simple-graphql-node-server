@@ -8,4 +8,4 @@
 
 ![alt text](screen.png "Graphql Playground")
 
-**NB**: The server runs on a mocked Mongodb Database
+**NB**: The server runs on a mocked Mongodb Database Server
